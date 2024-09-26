@@ -4,7 +4,20 @@ When playing games with wine on linux, I was plagued by anti-cheaters,A launcher
 # Insatll
 The required installation dependencies are wine-mono wine-gecko mingw-w64 git meson nasm glslang
 
-Run on terminal during installation:
+Enter in the terminal:  
+`chmod +x install.sh`   
+`./install.sh`
 
-`chmod +x setup.sh`   
+Install the dependencies manually if an error occurs
+
+If there are no errors, type in the terminal:  
+`chmod +x setup.sh`  
 `./setup.sh`
+
+Finally, you need to enter the absolute path to your game's main program  
+For example:  
+`/home/xxxx/ntfs/GenshinImpact.exe`
+
+## Launch the game
+Once installed, simply type in the terminal:  
+`animation-starte`
