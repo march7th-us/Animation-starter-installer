@@ -1,0 +1,4 @@
+#!/bin/bash
+
+g_path=`cat /usr/share/Animation-starter/path`
+wine /usr/share/Animation-starter/jadeite/jadeite.exe $g_path
