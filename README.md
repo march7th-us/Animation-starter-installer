@@ -14,7 +14,7 @@ If there are no errors, type in the terminal:
 `chmod +x setup.sh`  
 `./setup.sh`
 
-Finally, you need to enter the absolute path to your game's main program  
+Finally, you need to enter the absolute path to your game's main program.  
 For example:  
 `/home/xxxx/ntfs/GenshinImpact.exe`
 
