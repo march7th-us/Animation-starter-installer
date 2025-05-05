@@ -5,8 +5,10 @@ When playing games with wine on linux, I was plagued by anti-cheaters,A launcher
 The required installation dependencies are wine-mono wine-gecko mingw-w64 git meson nasm glslang
 
 Enter in the terminal:  
-`chmod +x install.sh`   
-`./install.sh`
+``` shell
+chmod +x install.sh
+./install.sh
+```
 
 Install the dependencies manually if an error occurs
 
